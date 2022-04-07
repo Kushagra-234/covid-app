@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./index.css";
 // import { FaBeer } from 'react-icons/fa';
-import { FaCircle, IconName } from "react-icons/fa";
+import { FaCircle } from "react-icons/fa";
 
 const Covid = () => {
   const [data, setdata] = useState([]);
